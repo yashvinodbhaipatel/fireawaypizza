@@ -1,0 +1,9 @@
+.tab-trigger {
+    background-color: transparent;
+    transition: background-color 0.3s;
+  }
+  
+  .tab-trigger[data-state="active"] {
+    background-color: white;
+  }
+  
